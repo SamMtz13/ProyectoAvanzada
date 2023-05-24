@@ -1,0 +1,4 @@
+﻿  BookData.cpp
+C:\Users\Personal\Desktop\UP\Programacion Avanzada\Proyectos\Proyecto_Final\Proyecto_Final\BookData.cpp(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+Proyecto_Final.obj : error LNK2019: símbolo externo "class BookData __cdecl blankBook(void)" (?blankBook@@YA?AVBookData@@XZ) sin resolver al que se hace referencia en la función main
+C:\Users\Personal\Desktop\UP\Programacion Avanzada\Proyectos\Proyecto_Final\x64\Debug\Proyecto_Final.exe : fatal error LNK1120: 1 externos sin resolver
